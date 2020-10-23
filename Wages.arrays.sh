@@ -4,7 +4,7 @@ isfulltime=2
 maxhrsinmonth=4
 emprateperhr=20
 numworkingdays=20
-
+#to calculate wages
 totalemphrs=0
 totalworkingdays=0
 
